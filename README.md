@@ -39,23 +39,23 @@ All dictionary words are loaded from assets/words.txt, and saved progress is sto
 
 ## Features Implemented
 
-* - Secret Word Selection: Random 5-letter word chosen from a 300+ word dictionary.
+* Secret Word Selection: Random 5-letter word chosen from a 300+ word dictionary.
 
-* - Guess Evaluation: Player receives green, yellow, or gray feedback per letter.
+* Guess Evaluation: Player receives green, yellow, or gray feedback per letter.
 
-* - Dictionary Validation: Only valid English 5-letter words from words.txt are accepted.
+* Dictionary Validation: Only valid English 5-letter words from words.txt are accepted.
 
-* - 6 Attempts Limit: Players can make up to six guesses before the game ends.
+* 6 Attempts Limit: Players can make up to six guesses before the game ends.
 
-* - Win/Lose Detection: Game ends automatically with appropriate message.
+* Win/Lose Detection: Game ends automatically with appropriate message.
 
-* - On-screen Keyboard: Shows letters with color feedback for used keys.
+* On-screen Keyboard: Shows letters with color feedback for used keys.
 
-* - Persistence (Save/Load): Current game progress saved to a file and reloaded on startup.
+* Persistence (Save/Load): Current game progress saved to a file and reloaded on startup.
 
-* - Reset Game: Instantly starts a new round with a new secret word.
+* Reset Game: Instantly starts a new round with a new secret word.
 
-* - JUnit Tests (Extra Credit): 11 passing model-level tests verifying core logic, state handling, and persistence.
+* JUnit Tests (Extra Credit): 11 passing model-level tests verifying core logic, state handling, and persistence.
 
 ---
 
