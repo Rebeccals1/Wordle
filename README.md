@@ -5,7 +5,7 @@ Rebecca L. Smith (Solo Project)
 
 California State Polytechnic University, Pomona
 
-CS 4750 – Software Engineering
+CS 3560 - Object Oriented Programming
 
 ---
 # Project Overview
