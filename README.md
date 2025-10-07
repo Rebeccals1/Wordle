@@ -62,11 +62,13 @@ All dictionary words are loaded from assets/words.txt, and saved progress is sto
 ---
 
 ## Controls
-**Action**	            **Control**
-Enter Guess	        Type word in input box and click Guess
-Reset Game	        Click Reset
-Save Game	        Click Save
-Load Game	        Click Load
+
+| **Action**     | **Control** |
+|----------------|-------------|
+| Enter Guess    | Type word in input box and click **Guess** |
+| Reset Game     | Click **Reset** |
+| Save Game      | Click **Save** |
+| Load Game      | Click **Load** |
 
 ---
 # Known Issues
