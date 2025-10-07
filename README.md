@@ -2,7 +2,9 @@
 
 ## Created by
 Rebecca L. Smith (Solo Project)
+
 California State Polytechnic University, Pomona
+
 CS 4750 – Software Engineering
 
 ---
